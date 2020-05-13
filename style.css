@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color: dimgrey;}
+
+#table {
+	bottom:-300px;
+	left: 400px;
+	position: absolute;		
+}
+
+#table2 {
+	bottom:100px;
+	right: 100px;
+	position: absolute;		
+}
+
+#Rectangle {
+	background-color: dimgrey;
+	width:200px;
+	height:300px;
+	bottom:-500px;
+	right: 100px;
+	position: absolute;	
+}
+
+#drag {
+	bottom:14%;
+	left: 40%;
+	position: absolute;
+	transform: rotate(3deg)
+}
+#drag2 {
+	bottom:-200px;
+	left: 470px;
+	position: absolute;
+	transform: rotate(0deg)
+}
+
+#drag3 {
+	bottom:0%;
+	left: 70%;
+	position: absolute;
+	transform: rotate(-15deg)
+}
+
+#drag4 {
+	bottom:54%;
+	left: 33%;
+	position: absolute;
+	transform: rotate(-10deg);
+}
+
+#drag5 {
+	bottom:30%;
+	left: 12%;
+	position: absolute;
+	transform: rotate(25deg)
+		
+}
+		
+
